@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Paideia</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Fábio Pulitta</string>
+    <string name="profile_description">Description</string>
+    <string name="profile_connections">Connections</string>
+    <string name="profile_my_interests">Meus interesses</string>
+    <string name="profile_my_abilities">Minhas habilidades</string>
+
+    <!-- Login -->
+    <string name="login_title">Autenticação</string>
+
+    <!-- Search -->
+    <string name="search_title">Busca</string>
+    <string name="search_interest_based">Baseado nos seus interesses</string>
+    <string name="search_suggestions">Sugestões</string>
+
+<!--    <string name="app_name">paideia</string>-->
+<!--    <string name="app_name">paideia</string>-->
+<!--    <string name="app_name">paideia</string>-->
+</resources>
